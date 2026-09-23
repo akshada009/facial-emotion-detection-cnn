@@ -69,7 +69,7 @@ The dataset is not included in this repository because of its size.
 
 ## 🖥️ Live Application Preview
 
-![Live Facial Emotion Detection](live_emotion_detection.png)
+![Live Facial Emotion Detection](live_emotion_detection.jpg)
 
 
 ## 📊 Model Performance
