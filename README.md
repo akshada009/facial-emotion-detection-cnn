@@ -67,6 +67,11 @@ The project uses a FER2013-based facial expression dataset containing seven emot
 
 The dataset is not included in this repository because of its size.
 
+## 🖥️ Live Application Preview
+
+![Live Facial Emotion Detection](live_emotion_detection.png)
+
+
 ## 📊 Model Performance
 
 The initial CNN model achieved approximately **54% test accuracy** on the test dataset.
